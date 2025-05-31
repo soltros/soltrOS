@@ -1,0 +1,5 @@
+[Flatpak Repo]
+Title=Flathub
+Name=flathub
+Url=https://dl.flathub.org/repo/flathub.flatpakrepo
+IsDefault=true
